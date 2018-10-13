@@ -1,0 +1,22 @@
+{
+  "name": "learning-node-express",
+  "version": "1.0.0",
+  "description": "playing around with node and express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewDodi/learning-node-express.git"
+  },
+  "author": "Matthew Dodi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewDodi/learning-node-express/issues"
+  },
+  "homepage": "https://github.com/MatthewDodi/learning-node-express#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
