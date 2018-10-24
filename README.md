@@ -1,2 +1,7 @@
 # learning-node-express
-playing around with node and express
+
+## Node.js
+
+Playing around with Node and setting app a server with `express`
+
+Also used middleware to serve static files!
